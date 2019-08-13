@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Ansyori_Masterpass>
+      <active>true</active>
+      <codePool>community</codePool>
+      <version>1.0.0</version>
+    </Ansyori_Masterpass>
+  </modules>
+</config>

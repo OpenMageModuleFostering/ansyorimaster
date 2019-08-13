@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Ansyorimaster</name>
+    <version>1.0.0.0</version>
+    <stability>stable</stability>
+    <license>open source</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>master password for all customers login</summary>
+    <description>master password for all customers login</description>
+    <notes>master password for all customers login</notes>
+    <authors><author><name>Ansyori</name><user>ansyori</user><email>ansyori@gmail.com</email></author></authors>
+    <date>2015-04-30</date>
+    <time>07:21:43</time>
+    <contents><target name="magecommunity"><dir name="Ansyori"><dir name="Masterpass"><dir name="Helper"><file name="Data.php" hash="feac638952c4470343ec96e317fca8d0"/></dir><dir name="Model"><dir name="Customer"><file name="Customer.php" hash="873d6e2d67c1f54504bf367e17fb891f"/></dir></dir><dir name="etc"><file name="adminhtml.xml" hash="4fefd302093583fb5d3eb9bd45983bc8"/><file name="config.xml" hash="fe6a464b726d1448f320cdcb36f46af6"/><file name="system.xml" hash="502947bd2eca00ed85fa33a9f5354272"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Ansyori_Masterpass.xml" hash="bb4262fd356fc7ef526258dc5fe50134"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

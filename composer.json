@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Ansyorimaster",
+    "type": "magento-module",
+    "license": "open-source",
+    "homepage": "",
+    "description": "master password for all customers login",
+    "authors": [
+    {
+        "name": "Ansyori",
+        "email": "ansyori@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
